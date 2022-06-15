@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717868489445",
+    "project_id": "phone-authentication-2022",
+    "storage_bucket": "phone-authentication-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717868489445:android:8f429581bb40df9dbad20c",
+        "android_client_info": {
+          "package_name": "com.example.aphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717868489445-hjhqju6d2j2n2ecgob77s59rc66b3gqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aphone",
+            "certificate_hash": "5d16498a0963fe16af7d64263016ec22fca68446"
+          }
+        },
+        {
+          "client_id": "717868489445-auf336seo801isilk52m76c3lkarrcrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcDpBkO9ZaoPkoD7XkmpKLrNkIMgPC3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717868489445-auf336seo801isilk52m76c3lkarrcrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
